@@ -1,0 +1,14 @@
+C:\Users\Arthu\source\repos\COLECOES_AED\aedSegundoSemestre\tadsLineares\trabalhoAed\trabalhoAed\bin\Debug\net8.0\trabalhoAed.exe
+C:\Users\Arthu\source\repos\COLECOES_AED\aedSegundoSemestre\tadsLineares\trabalhoAed\trabalhoAed\bin\Debug\net8.0\trabalhoAed.deps.json
+C:\Users\Arthu\source\repos\COLECOES_AED\aedSegundoSemestre\tadsLineares\trabalhoAed\trabalhoAed\bin\Debug\net8.0\trabalhoAed.runtimeconfig.json
+C:\Users\Arthu\source\repos\COLECOES_AED\aedSegundoSemestre\tadsLineares\trabalhoAed\trabalhoAed\bin\Debug\net8.0\trabalhoAed.dll
+C:\Users\Arthu\source\repos\COLECOES_AED\aedSegundoSemestre\tadsLineares\trabalhoAed\trabalhoAed\bin\Debug\net8.0\trabalhoAed.pdb
+C:\Users\Arthu\source\repos\COLECOES_AED\aedSegundoSemestre\tadsLineares\trabalhoAed\trabalhoAed\obj\Debug\net8.0\trabalhoAed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthu\source\repos\COLECOES_AED\aedSegundoSemestre\tadsLineares\trabalhoAed\trabalhoAed\obj\Debug\net8.0\trabalhoAed.AssemblyInfoInputs.cache
+C:\Users\Arthu\source\repos\COLECOES_AED\aedSegundoSemestre\tadsLineares\trabalhoAed\trabalhoAed\obj\Debug\net8.0\trabalhoAed.AssemblyInfo.cs
+C:\Users\Arthu\source\repos\COLECOES_AED\aedSegundoSemestre\tadsLineares\trabalhoAed\trabalhoAed\obj\Debug\net8.0\trabalhoAed.csproj.CoreCompileInputs.cache
+C:\Users\Arthu\source\repos\COLECOES_AED\aedSegundoSemestre\tadsLineares\trabalhoAed\trabalhoAed\obj\Debug\net8.0\trabalhoAed.dll
+C:\Users\Arthu\source\repos\COLECOES_AED\aedSegundoSemestre\tadsLineares\trabalhoAed\trabalhoAed\obj\Debug\net8.0\refint\trabalhoAed.dll
+C:\Users\Arthu\source\repos\COLECOES_AED\aedSegundoSemestre\tadsLineares\trabalhoAed\trabalhoAed\obj\Debug\net8.0\trabalhoAed.pdb
+C:\Users\Arthu\source\repos\COLECOES_AED\aedSegundoSemestre\tadsLineares\trabalhoAed\trabalhoAed\obj\Debug\net8.0\trabalhoAed.genruntimeconfig.cache
+C:\Users\Arthu\source\repos\COLECOES_AED\aedSegundoSemestre\tadsLineares\trabalhoAed\trabalhoAed\obj\Debug\net8.0\ref\trabalhoAed.dll
